@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LockView">
+        <attr name="normalColor" format="color|reference" />
+        <attr name="moveColor" format="color|reference" />
+        <attr name="errorColor" format="color|reference" />
+        <attr name="rowCount" format="integer" />
+    </declare-styleable>
+</resources>
